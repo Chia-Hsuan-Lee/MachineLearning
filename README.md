@@ -10,4 +10,8 @@ HW3 : LinearRegression, Logistic Regression
 
 HW4 : RidgeRegression
 
+HW6 : AdaBoost Algorithm on Decision Stump
+
+HW7 : DecisionTree CART with Decision Stump
+
 HW8 : Kmeans, KNN
